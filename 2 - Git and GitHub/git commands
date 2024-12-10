@@ -4,3 +4,14 @@ Add to our Staging Area
 -git add .
 Making it another version
 -git commit -m "Description"
+
+show a history of commit
+-git log
+
+show history of Commits of One Line
+-git log --oneline
+
+Legend in git repository
+U - Untracked
+A - Added
+M - Modified
