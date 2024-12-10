@@ -16,17 +16,16 @@ U - Untracked
 A - Added
 M - Modified
 
-check on the working tree/ Status of our commit
+Check on the working tree/ Status of our commit
 -git status
-
-Creating a branch
+Creating a Branch
 -git branch "branchname"
-
-list of all the branches
-- git branch -a
-
+List of all the branches
+-git branch -a
 Switch to another branch
-- git checkout "branchName"
+-git checkout "branchname"
 
-Check the status of a branch
--git status
+Mergin Master to Branch
+-git merge "name of the branch"
+Deleting a Brannch
+-git branch -d "name of the branch"
