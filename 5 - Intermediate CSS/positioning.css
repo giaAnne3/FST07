@@ -1,0 +1,37 @@
+/* the top is = 0px */
+#relative {
+    /* Relative to it's original position */
+    background-color: aqua;
+    position: relative;
+    /*top, left, right, bottom (once you access the realtive)*/
+    top: 40px;
+    left: 30px;
+}
+
+#absolute {
+    /* Relative to it's parent container (the parent is div in outside the code) */
+    /* if the parent container postion is not set on static */
+    background-color: tomato;
+    position: absolute;
+    /*top, left, right, bottom (once you access the realtive)*/
+    top: 0px;
+    right: 0px;
+}
+
+#fixed{
+    /* Relative to the viewport */
+    background-color: burlywood;
+    position: fixed;
+    /* top, left, right, bottom */
+    bottom: 0px;
+    right: 0px;
+}
+
+#sticky {
+    /* Use for important announcement or reminder */
+    /* relative to viewport */
+    background-color: chartreuse;
+    position: sticky;
+    /* top, left, right, bottom */
+    top: 0px;
+}

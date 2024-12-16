@@ -1,0 +1,158 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+div {
+    margin-bottom: 40px;
+}
+
+.main{
+    padding: 10px;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.font-family-size{
+    font-size: 20px;
+    margin: 16.600px 0 16.600px 0;
+    border-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #ccc;
+    padding-bottom: 10px;
+    border-width: 0px 0px 2px 0px;
+}
+
+.line-height{
+    line-height: 1.5;
+    margin: 16px 0 16px 0px;
+}
+
+.class-name{
+    background-color: #f9d6d5;
+    color: #d9534f;
+    padding: 10px;
+    margin: 16px 0 16px 0;
+    border-radius: 5px;
+}
+
+ul{
+    padding-left: 40px;
+}
+
+#solutions{
+    background-color: #f7f7f7;
+    font-weight: bold;
+    padding: 10px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.solutions-parag-container{
+    font-style: italic ;
+    color: green;
+}
+
+.box1, .box2, .box3, .box4{
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.box1{
+    background-color: #f0ad4e;
+    color: white;
+}
+
+.box2{
+    background-color: #5bc0de;
+    color: white;
+}
+
+.box3{
+    background-color: #5cb85c;
+    color: white;
+}
+
+.box4{
+    background-color: #d9534f;
+    color: white;
+}
+
+h3{
+    margin: 20px 368px 20px 368px;
+    border: 1px;
+    padding: 6px 11px 4px 9px;
+    width: 300px;
+    height: 30px;
+    border: 1px;
+    border-style: solid;
+    text-align: center;
+    border-color: rgb(229, 228, 228);
+}
+
+.project-highlight{
+    border: 2px;
+    border-style: solid;
+    border-color: #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+.pricing{
+    margin: 20px 0;
+    text-align: center;
+}
+
+.product-name, .line-through, .sale-price{
+    font-size: 24px;
+}
+
+.line-through{
+    text-decoration: line-through;
+    color: #777;
+    margin-right: 10px;
+}
+
+.sale-price{
+    color: #d9534f;
+    font-weight: bold;
+}
+
+.font-family-size1{
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.email{
+    color: green;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+}
+
+.footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
